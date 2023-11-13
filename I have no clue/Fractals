@@ -9,6 +9,8 @@ pygame.init()
 pygame.display.set_caption("Pythagorean Tree Fractal")
 
 # Create the game screen
+
+
 screen = pygame.display.set_mode((1500, 900))
 
 
